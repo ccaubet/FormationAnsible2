@@ -1,4 +1,4 @@
-hosts
-*/hosts
-ansible.cfg
-*/ansible.cfg
+# hosts
+# */hosts
+# ansible.cfg
+# */ansible.cfg
